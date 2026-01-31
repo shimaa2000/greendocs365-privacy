@@ -1,0 +1,9 @@
+# GitHub Pages Configuration for greenDocs365 Privacy Policy
+title: greenDocs365 Privacy Policy
+description: Privacy Policy for greenDocs365 Mobile Application
+theme: jekyll-theme-minimal
+
+# Disable Jekyll processing for HTML files
+include:
+  - privacy_policy.html
+  - index.html
